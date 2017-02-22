@@ -2,10 +2,10 @@
 #import "RNNotificationActions.h"
 #import "RNNotificationActionsManager.h"
 
-#import "RCTBridge.h"
-#import "RCTConvert.h"
-#import "RCTEventDispatcher.h"
-#import "RCTUtils.h"
+#import <RCTBridge.h>
+#import <RCTConvert.h>
+#import <RCTEventDispatcher.h>
+#import <RCTUtils.h>
 
 NSString *const RNNotificationActionReceived = @"NotificationActionReceived";
 

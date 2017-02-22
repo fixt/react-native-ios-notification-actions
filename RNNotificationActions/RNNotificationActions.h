@@ -1,6 +1,6 @@
 @import UIKit;
 
-#import "RCTBridgeModule.h"
+#import <RCTBridgeModule.h>
 
 @interface RNNotificationActions : NSObject <RCTBridgeModule>
 
